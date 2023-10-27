@@ -1,0 +1,40 @@
+---
+title: "Diary entries "
+author: "Liu Yingzhe"
+date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+# WEEK 9 
+
+## What is the topic you have finalised?
+
+How can the happiness levels of students be improved in Singapore through insights from World Happiness Index Report. Appropriate strategies will be suggested based on the different factors of the World Happiness Index of Singapore and also by taking reference to other countries.
+
+## What are the data sources that you have curated so far? 
+
+I have obtained the World Happiness Report 2021 dataset. This will be used to analyse the Happiness Index of different countries as well as the factors measured for the Happiness Index. I will need to obtain datasets on students wellbeing and mental health to identify strategies that will be helpful.
+
+[World Happiness Report 2021](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021)
+
+<br> 
+
+# WEEK 10 
+
+## What is the question that you are going to answer?
+
+What are the trends in the World Happiness Index over the years and can it tell us anything about the development of the country? _(not sure if this is ok because it is 2 questions technically)_
+
+## Why is this an important question?
+
+I am interested to find out the relationship of economic/social state of the country and the happiness of the people in those countries, and maybe explore why exactly. I believe this can help me understand the importance of systemic factors in predicting one's happiness.
+
+## Challenges faces and how were they overcomed!!
+
+1: In week 9, I could not obtain a working website link despite following the tutorials and creating a repo for my final project named after my username and github.io. The problem was that github was unable to read my rmd files that I have uploaded. The solution was suggested to upload only my html files for the website for github to read directly. This solved the issue but now I need to delete the existing html files in my repo every time I update my website and replace it with the newly updated htmls. 
+
+<br>
+
+2: IN week 10, I realised that I could not find publicly available datatsets for Singapore's student populaiton relevant to my project. The scope that I have confined myself to was too narrow so I though it would be good to widen my scope and changed it to analysing the World Happiness Index trends over the years and identify if there are any relationships between the factors or the state of the country on the happiness felt. Thankfully, I was able to source for World Happiness Index from 2008 to 2022 with the factor scores as well. 
